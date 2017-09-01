@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">快速开发框架</string>
+    <string name="title_activity_listv_view">ListvView模式</string>
+    <string name="title_activity_grid_view">GridView模式</string>
+    <string name="title_activity_grid_grouping_view">ListView分组模式</string>
+    <string name="title_activity_list_chat_view">多布局ListView显示</string>
+    <string name="title_activity_tab">Tab+Fragment快速实现</string>
+    <string name="title_activity_type">状态页面演示</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+</resources>
